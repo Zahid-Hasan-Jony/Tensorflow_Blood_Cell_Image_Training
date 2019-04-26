@@ -1,0 +1,1 @@
+All of this extract images get using python-openCV code. Use those images as your train images.
