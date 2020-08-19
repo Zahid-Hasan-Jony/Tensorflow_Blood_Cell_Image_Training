@@ -1,18 +1,18 @@
 # Tensorflow_Blood_Cell_Image_Training
-This is for train blood cell images using tensorflow. This technique helps us to predicts the name of the cell in an image.
+This is for training blood cell images using tensorflow. This technique helps us to predict the name of the cell in an image.
 
 #Steps
 1. First we need to install ubuntu on your PC. I already explained how to install ubuntu on our PC. Do the steps 1 to 6 following this link: https://github.com/Zahid-Hasan-Jony/Python_Blood_Cell_Detection/blob/master/README.md 
 
-2. Second we need to install tensorflow. Here we have to create vitual environment on our system. This is the best way to intall tensorflow after creating virtual environment. Because we don't need to much worry about our system if we do any mistake. Follow this video. (link: https://www.youtube.com/watch?v=FuRSeRe88sw )
+2. Second we need to install tensorflow. Here we have to create a virtual environment on our system. This is the best way to install tensorflow after creating s virtual environment. Because we don't need to worry too much about our system if we make any mistakes. Follow this video. (link: https://www.youtube.com/watch?v=FuRSeRe88sw )
 
 ***In this video they use the command pip. If you have installed python3 on your system then you will need to use pip3 command instead of pip.**
 
-***You can install pip3 by writting commands given bellow in your terminal**
+***You can install pip3 by writing commands given bellow in your terminal**
 
 sudo apt update
 
-sudo apt intall python3-pip
+sudo apt install python3-pip
 
 ***check either it properly installed or not**
 
@@ -21,8 +21,8 @@ pip3 --Version
 It will pass like "pip 9.01 from /usr/lib/python3/dist-packages" if properly installed.
 
 3. Training Section-
-This senction is based on the following (link: https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0 ). Basically this link for train flower images. Here we are going to train blood cell images so it's better to ignore that link.
-After activate your virtual environment following the video pass all the steps given bellow.
+This section is based on the following (link: https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0 ). Basically this link for train flower images. Here we are going to train blood cell images so it's better to ignore that link.
+After activating your virtual environment following the video pass all the steps given below.
 
 Type on your terminal
 
